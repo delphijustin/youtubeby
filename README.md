@@ -1,2 +1,2 @@
 # youtubeby
-A simple batch/bash script that launches savefrom.net
+A simple batch file that launches savefrom.net
